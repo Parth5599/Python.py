@@ -3,33 +3,32 @@ Python learning repository covering Basics, Advanced Concepts, OOP, Data Structu
 
 📚 Topics Covered
 🐍 Basic Python
-Python Fundamentals
-Variables and Data Types
-Operators
-Conditional Statements
-Loops
-Functions
-Strings
-Lists, Tuples, Sets, Dictionaries
-File Handling
-Exception Handling
+Python Fundamentals,
+Variables and Data Types,
+Operators,
+Conditional Statements,
+Loops,
+Functions,
+Strings,
+Lists, Tuples, Sets, Dictionaries,
+File Handling,
+Exception Handling.
 
 ⚡ Advanced Python
-Object-Oriented Programming (OOP)
-Iterators & Generators
-Decorators
-Lambda Functions
-Modules & Packages
-Multithreading
-Multiprocessing
-Regular Expressions
-Context Managers
-Database Connectivity
-API Integration
+Object-Oriented Programming (OOP),
+Iterators & Generators,
+Decorators,
+Lambda Functions,
+Modules & Packages,
+Multithreading,
+Multiprocessing,
+Regular Expressions,
+Context Managers,
+Database Connectivity,
+API Integration.
 
 🚀 Python Frameworks
-Django
-Flask
-FastAPI
-Streamlit
-SQLAlchemy
+Django,
+FastAPI,
+Streamlit,
+SQLAlchemy.
